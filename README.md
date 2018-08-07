@@ -1,2 +1,2 @@
 # Welcome
-Repository for studying powershell
+Repository for my test scripts - not prod.
